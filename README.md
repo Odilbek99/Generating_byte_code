@@ -14,4 +14,5 @@
     
 ##### After that you can see the all instructions to get byte-code of files
 
-
+### Python version: 3.6 <
+ 
